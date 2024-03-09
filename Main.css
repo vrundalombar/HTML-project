@@ -1,0 +1,30 @@
+        body {
+               font-family: ‘Merienda’;
+               font-size: 10px;
+               padding: 0;
+               margin: 0;
+        }
+h1
+{
+ font-family: Vladimir Script ;
+ text-align:center;
+ color:#492000;
+font-size: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color:#492000;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color:#C0C0C0;
+  color: black;
+}
+

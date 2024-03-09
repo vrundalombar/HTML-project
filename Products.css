@@ -1,0 +1,51 @@
+div.gallery{
+margin:18px;
+float:left;
+width: 210px;
+}
+
+div.gallery img {
+  width: 210px;
+  height: 200px;
+}
+
+div.desc {
+  padding: 20px;
+  text-align: center;
+  color: #492000;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1
+{
+font-family: 'Trebuchet MS', sans-serif;
+ color: #FA8072;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color:#F88379;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color:#C0C0C0;
+  color: black;
+}
+
+mark {
+background-color: #FF8C00;
+color: white;
+padding: 8px;
+display: inline-block;
+cursor: pointer;
+font-size: 13px;
+margin: 2px 2px;
+border-radius: 10px;
+border: none;
+}

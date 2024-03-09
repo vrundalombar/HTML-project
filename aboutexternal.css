@@ -1,0 +1,32 @@
+p
+{
+ text-align: center;
+ font-size: 1.60em;
+ font-family: Georgia, serif;
+ margin-top: 70px;
+ margin-bottom: 70px;
+ margin-right: 100px;
+ margin-left: 100px;
+ color: #6E260E;
+}
+h1
+{
+font-family: 'Trebuchet MS', sans-serif;
+ color:#FA8072;
+}
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color:#F88379;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color:#C0C0C0;
+  color: #522610;
+}
+
